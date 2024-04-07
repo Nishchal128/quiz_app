@@ -1,0 +1,53 @@
+[
+    {
+      "question": "What is the package manager for Node.js?",
+      "options": ["npm", "yarn", "pip", "composer"],
+      "answer": "npm"
+    },
+    {
+      "question": "Which module is used to create a web server in Node.js?",
+      "options": ["http", "fs", "url", "path"],
+      "answer": "http"
+    },
+    {
+      "question": "What is the event-driven programming in Node.js?",
+      "options": ["Synchronous", "Asynchronous", "Single-threaded", "Multi-threaded"],
+      "answer": "Asynchronous"
+    },
+    {
+      "question": "What is the default port for Node.js server?",
+      "options": ["3000", "8080", "80", "8888"],
+      "answer": "3000"
+    },
+    {
+      "question": "Which of the following is not a core module in Node.js?",
+      "options": ["fs", "http", "express", "os"],
+      "answer": "express"
+    },
+    {
+      "question": "What does REPL stand for in Node.js?",
+      "options": ["Read Eval Print Loop", "Realtime Environment Programming Language", "Runtime Execution Program Library", "Repetition"],
+      "answer": "Read Eval Print Loop"
+    },
+    {
+      "question": "Which of the following is the non-blocking I/O model in Node.js?",
+      "options": ["fs.readFileSync()", "fs.readFile()", "fs.open()", "fs.createReadStream()"],
+      "answer": "fs.readFile()"
+    },
+    {
+      "question": "What does the 'require' function do in Node.js?",
+      "options": ["Imports a module", "Exports a module", "Defines a function", "Creates an instance of a class"],
+      "answer": "Imports a module"
+    },
+    {
+      "question": "Which of the following is a built-in HTTP module in Node.js?",
+      "options": ["http", "https", "http-server", "server"],
+      "answer": "http"
+    },
+    {
+      "question": "What does the 'process' object provide in Node.js?",
+      "options": ["Information about the current process", "Access to the file system", "HTTP utilities", "Database operations"],
+      "answer": "Information about the current process"
+    }
+  ]
+  
